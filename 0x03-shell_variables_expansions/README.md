@@ -12,4 +12,4 @@
 
 [4. Global variables](./4-global_variables) : A script that lists enviroment eariables.
 
-
+[5. Local variables ](./5-local_variables) : A script that lists all local variables and enviroment variables, and functions.
