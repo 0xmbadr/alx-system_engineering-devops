@@ -22,3 +22,5 @@
    - Value : `School` 
 [8. Every addition to true knowledge is an addition to human power](./8-true_knowledge) : A script that prints the results of the addition of 128 with the value stored in the enviroment variable `TRUEKNOWLEDGE`, followed by a new line.
 [9. Divide and rule](./9-divide_and_rule) : A script that prints the result of `POWER=42784` divide by `DIVIDE=32`, followed by a new line.
+[10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath](./10-love_exponent_breath) : A script that displays the result of `BREATH=4` to the power of `LOVE=3`.
+
