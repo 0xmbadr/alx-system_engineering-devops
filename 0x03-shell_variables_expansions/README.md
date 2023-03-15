@@ -35,3 +35,5 @@
     - The output should be alpha ordered, starting with `aa`.
     - Do not print `oo`.
     - Your script file should contain maximum 64 characters.
+
+[13. Floats](./13-print_float) : A script that prints a number (palced in `NUM`) with two decimal places, followed by a new line.
