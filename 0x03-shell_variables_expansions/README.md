@@ -29,4 +29,9 @@
 
 [11. There are 10 types of people in the world -- Those who understand binary, and those who don't](./11-binary_to_decimal) : A script that converts a number (stored in `BINARY`) from base 2 to base 10.
 
-
+[12. Combination](./12-combinations) : A script that prints all possible combinations of two letters, except `oo`.
+    - Letters are lower cases, from `a` to `z`.
+    - One combination per line.
+    - The output should be alpha ordered, starting with `aa`.
+    - Do not print `oo`.
+    - Your script file should contain maximum 64 characters.
