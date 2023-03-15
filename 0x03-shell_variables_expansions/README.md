@@ -17,4 +17,6 @@
 [6. Local variable](./6-create_local_variable) : A script that creates a new local variable.
     - Name: `BEST`
     - Value: `School`
-
+[7. Global variable](./7-create_global_variable) : A script that creates a new global variable.
+   - Name: `BEST`
+   - Value : `School`
