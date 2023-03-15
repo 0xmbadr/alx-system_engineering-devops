@@ -42,3 +42,5 @@
 [14. Decimal to Hexadecimal](./100-decimal_to_hexadecimal) : A script that converts a number (stored in `DECIMAL`) from base 10 to base 16. 
 
 [15. Everyone is a proponent of strong encryption](./101-rot13) : A script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+[16. The eggs of the brood need to be an odd number](./102-odd) : A script that prints every other line from the input, starting with the first line.
